@@ -1,6 +1,6 @@
 # Redux_Tut
 
-It Is A Redux React Website Which Functions On React Basics With Application Of Redgit remote add origin https://github.com/code08-ind/Redux_Tut.gitux.
+It Is A Redux React Website Which Functions On React Basics With Application Of Redux.
 
 To Visit This Project, Go To Below Mentioned Website:
 
